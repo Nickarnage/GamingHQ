@@ -1,0 +1,583 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="GamingHQ.com" resolutions="1x" timestamp="1660149541205">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4223177754" ref="index"/>
+    <file name="create-account.css" crc="4025461819" ref="create-account"/>
+    <file name="gaming-hq--cod.css" crc="4237131664" ref="gaming-hq--cod"/>
+    <file name="gaming-hq--games.css" crc="127620675" ref="gaming-hq--games"/>
+    <file name="gaming-hq---store.css" crc="485571830" ref="gaming-hq---store"/>
+    <file name="gaming-hq--news.css" crc="285353541" ref="gaming-hq--news"/>
+    <file name="gaming-hq--valorant.css" crc="3811828469" ref="gaming-hq--valorant"/>
+    <file name="gaming-hq--fifa-22.css" crc="4190363717" ref="gaming-hq--fifa-22"/>
+    <file name="gaming-hq--btd6.css" crc="223267090" ref="gaming-hq--btd6"/>
+    <file name="gaming-hq--csgo.css" crc="3823934441" ref="gaming-hq--csgo"/>
+  </folder>
+  <folder name="assets">
+    <file name="--mt---toolbox---videos---fullscreen-backgrounds-(1.1).mulib" crc="3928641224" seo="true" mt="1651675311000"/>
+    <file name="mt.toolbox.videos.full-browser-width-1.1.mulib" crc="330710653" seo="true" mt="1651741114000"/>
+    <file name="btd6.webm" crc="152494415" seo="true" mt="1655351108000"/>
+    <file name="valorant.mp4" crc="31410806" seo="true" mt="1655348835000"/>
+    <file name="valorant.webm" crc="3808815813" seo="true" mt="1655356276000"/>
+    <file name="btd6.mp4" crc="4141578842" seo="true" mt="1655350203000"/>
+    <file name="csgo-.mp4" crc="4031241627" seo="true" mt="1655349130000"/>
+    <file name="csgo-.webm" crc="212954543" seo="true" mt="1655353777000"/>
+    <file name="fifa-22.mp4" crc="481471959" seo="true" mt="1655349163000"/>
+    <file name="fifa-22.webm" crc="4022659195" seo="true" mt="1655353142000"/>
+    <file name="codd.mp4" crc="396066018" seo="true" mt="1655349305000"/>
+    <file name="codd.webm" crc="378942694" seo="true" mt="1655352460000"/>
+    <file name="multi-video.mp4" crc="399442695" seo="true" mt="1648077443000"/>
+    <file name="multi-video.webm" crc="275945836" seo="true" mt="1651710394000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:create-account:gaming-hq--valorant:gaming-hq--csgo:gaming-hq--fifa-22:gaming-hq--cod:gaming-hq--games:gaming-hq--btd6:gaming-hq--news:gaming-hq---store"/>
+    <file name="museutils.js" crc="3939489907" ref="index:create-account:gaming-hq--valorant:gaming-hq--csgo:gaming-hq--fifa-22:gaming-hq--cod:gaming-hq--games:gaming-hq--btd6:gaming-hq--news:gaming-hq---store"/>
+    <file name="whatinput.js" crc="86476730" ref="index:create-account:gaming-hq--valorant:gaming-hq--csgo:gaming-hq--fifa-22:gaming-hq--cod:gaming-hq--games:gaming-hq--btd6:gaming-hq--news:gaming-hq---store"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:create-account:gaming-hq--valorant:gaming-hq--csgo:gaming-hq--fifa-22:gaming-hq--cod:gaming-hq--games:gaming-hq--btd6:gaming-hq--news:gaming-hq---store"/>
+    <file name="webpro.js" crc="3856315280" ref="index:create-account:gaming-hq--valorant:gaming-hq--csgo:gaming-hq--fifa-22:gaming-hq--cod:gaming-hq--games:gaming-hq--btd6:gaming-hq--news:gaming-hq---store"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:create-account:gaming-hq--valorant:gaming-hq--csgo:gaming-hq--fifa-22:gaming-hq--cod:gaming-hq--games:gaming-hq--btd6:gaming-hq--news:gaming-hq---store"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:create-account:gaming-hq--valorant:gaming-hq--csgo:gaming-hq--fifa-22:gaming-hq--cod:gaming-hq--games:gaming-hq--btd6:gaming-hq--news:gaming-hq---store"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:create-account:gaming-hq--valorant:gaming-hq--csgo:gaming-hq--fifa-22:gaming-hq--cod:gaming-hq--games:gaming-hq--btd6:gaming-hq--news:gaming-hq---store"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:create-account:gaming-hq--valorant:gaming-hq--csgo:gaming-hq--fifa-22:gaming-hq--cod:gaming-hq--games:gaming-hq--btd6:gaming-hq--news:gaming-hq---store"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index:gaming-hq--valorant:gaming-hq--csgo:gaming-hq--fifa-22:gaming-hq--cod:gaming-hq--btd6"/>
+    <file name="require.js" crc="4177726516" ref="index:create-account:gaming-hq--valorant:gaming-hq--csgo:gaming-hq--fifa-22:gaming-hq--cod:gaming-hq--games:gaming-hq--btd6:gaming-hq--news:gaming-hq---store"/>
+    <file name="form_check.php" crc="4108222811" ref="create-account"/>
+    <file name="form_throttle.php" crc="503802655" ref="create-account"/>
+    <file name="form_process.php" crc="260214869" ref="create-account"/>
+    <file name="form-u21264.php" crc="156462053" ref="create-account"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="create-account"/>
+    <file name="form-u21519.php" crc="3901791883" ref="create-account"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="377782079" ref="gaming-hq--valorant"/>
+    <file name="valorantpage.jpg" crc="3948880521" seo="true" ref="gaming-hq--valorant">
+      <caption webpage="valorant" alt=""/>
+      <caption webpage="gaming-hq--valorant" alt=""/>
+    </file>
+    <file name="valorantprice.png" crc="4134575671" seo="true" ref="gaming-hq--valorant">
+      <caption webpage="valorant" alt=""/>
+      <caption webpage="gaming-hq--valorant" alt=""/>
+    </file>
+    <file name="buy2.png" crc="3946588479" seo="true" ref="gaming-hq--valorant:gaming-hq--csgo:gaming-hq--fifa-22:gaming-hq--cod:gaming-hq--btd6">
+      <caption webpage="fifa-22" alt=""/>
+      <caption webpage="gaming-hq--valorant" alt=""/>
+      <caption webpage="gaming-hq--btd6" alt=""/>
+      <caption webpage="gaming-hq--csgo" alt=""/>
+      <caption webpage="csgo" alt=""/>
+      <caption webpage="gaming-hq--cod" alt=""/>
+      <caption webpage="valorant" alt=""/>
+      <caption webpage="bloons-tower-defence-6" alt=""/>
+      <caption webpage="call-of-duty" alt=""/>
+      <caption webpage="gaming-hq--fifa-22" alt=""/>
+      <caption webpage="gaming-hq---store" alt=""/>
+    </file>
+    <file name="buy.png" crc="4087572588" seo="true" ref="gaming-hq--valorant:gaming-hq--csgo:gaming-hq--fifa-22:gaming-hq--cod:gaming-hq--btd6">
+      <caption webpage="fifa-22" alt=""/>
+      <caption webpage="gaming-hq--valorant" alt=""/>
+      <caption webpage="gaming-hq--btd6" alt=""/>
+      <caption webpage="gaming-hq--csgo" alt=""/>
+      <caption webpage="csgo" alt=""/>
+      <caption webpage="gaming-hq--cod" alt=""/>
+      <caption webpage="valorant" alt=""/>
+      <caption webpage="bloons-tower-defence-6" alt=""/>
+      <caption webpage="call-of-duty" alt=""/>
+      <caption webpage="gaming-hq--fifa-22" alt=""/>
+      <caption webpage="gaming-hq---store" alt=""/>
+    </file>
+    <file name="valimages2-crop-u11628.png" crc="3320026" seo="true" ref="gaming-hq--valorant">
+      <caption webpage="valorant" alt=""/>
+      <caption webpage="gaming-hq--valorant" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:gaming-hq--valorant:gaming-hq--csgo:gaming-hq--fifa-22:gaming-hq--cod:gaming-hq--games:gaming-hq--btd6:gaming-hq--news:gaming-hq---store"/>
+    <file name="valorantimages-crop-u12556.png" crc="366117985" seo="true" ref="gaming-hq--valorant">
+      <caption webpage="valorant" alt=""/>
+      <caption webpage="gaming-hq--valorant" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:gaming-hq--valorant:gaming-hq--csgo:gaming-hq--fifa-22:gaming-hq--cod:gaming-hq--btd6:gaming-hq---store"/>
+    <file name="sign2.png" crc="132499953" seo="true" ref="index:gaming-hq--valorant:gaming-hq--csgo:gaming-hq--fifa-22:gaming-hq--cod:gaming-hq--games:gaming-hq--btd6:gaming-hq--news:gaming-hq---store">
+      <caption webpage="gaming-hq--news" alt=""/>
+      <caption webpage="gaming-hq--btd6" alt=""/>
+      <caption webpage="gaming-hq--btd6" alt=""/>
+      <caption webpage="csgo" alt=""/>
+      <caption webpage="gaming-hq--cod" alt=""/>
+      <caption webpage="gaming-hq--cod" alt=""/>
+      <caption webpage="gaming-hq--games" alt=""/>
+      <caption webpage="gaming-hq--csgo" alt=""/>
+      <caption webpage="gaming-hq--csgo" alt=""/>
+      <caption webpage="gaming-hq--fifa-22" alt=""/>
+      <caption webpage="gaming-hq--fifa-22" alt=""/>
+      <caption webpage="gaming-hq-copy" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="sign-up" alt=""/>
+      <caption webpage="bloons-tower-defence-6" alt=""/>
+      <caption webpage="games" alt=""/>
+      <caption webpage="gaming-hq--valorant" alt=""/>
+      <caption webpage="gaming-hq--valorant" alt=""/>
+      <caption webpage="gaming-hq---store" alt=""/>
+      <caption webpage="fifa-22" alt=""/>
+      <caption webpage="valorant" alt=""/>
+      <caption webpage="esports-news" alt=""/>
+      <caption webpage="call-of-duty" alt=""/>
+    </file>
+    <file name="log2.png" crc="4239604257" seo="true" ref="index:gaming-hq--valorant:gaming-hq--csgo:gaming-hq--fifa-22:gaming-hq--cod:gaming-hq--games:gaming-hq--btd6:gaming-hq--news:gaming-hq---store">
+      <caption webpage="gaming-hq--news" alt=""/>
+      <caption webpage="gaming-hq--btd6" alt=""/>
+      <caption webpage="gaming-hq--btd6" alt=""/>
+      <caption webpage="csgo" alt=""/>
+      <caption webpage="gaming-hq--cod" alt=""/>
+      <caption webpage="gaming-hq--cod" alt=""/>
+      <caption webpage="gaming-hq--games" alt=""/>
+      <caption webpage="gaming-hq--csgo" alt=""/>
+      <caption webpage="gaming-hq--csgo" alt=""/>
+      <caption webpage="gaming-hq--fifa-22" alt=""/>
+      <caption webpage="gaming-hq--fifa-22" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="esports-news" alt=""/>
+      <caption webpage="bloons-tower-defence-6" alt=""/>
+      <caption webpage="games" alt=""/>
+      <caption webpage="gaming-hq--valorant" alt=""/>
+      <caption webpage="gaming-hq--valorant" alt=""/>
+      <caption webpage="gaming-hq---store" alt=""/>
+      <caption webpage="fifa-22" alt=""/>
+      <caption webpage="valorant" alt=""/>
+      <caption webpage="call-of-duty" alt=""/>
+    </file>
+    <file name="sign1.png" crc="105919" seo="true" ref="index:gaming-hq--valorant:gaming-hq--csgo:gaming-hq--fifa-22:gaming-hq--cod:gaming-hq--games:gaming-hq--btd6:gaming-hq--news:gaming-hq---store">
+      <caption webpage="gaming-hq--news" alt=""/>
+      <caption webpage="gaming-hq--btd6" alt=""/>
+      <caption webpage="csgo" alt=""/>
+      <caption webpage="gaming-hq--cod" alt=""/>
+      <caption webpage="gaming-hq--games" alt=""/>
+      <caption webpage="gaming-hq--csgo" alt=""/>
+      <caption webpage="gaming-hq--fifa-22" alt=""/>
+      <caption webpage="gaming-hq-copy" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="sign-up" alt=""/>
+      <caption webpage="bloons-tower-defence-6" alt=""/>
+      <caption webpage="games" alt=""/>
+      <caption webpage="gaming-hq--valorant" alt=""/>
+      <caption webpage="gaming-hq---store" alt=""/>
+      <caption webpage="fifa-22" alt=""/>
+      <caption webpage="valorant" alt=""/>
+      <caption webpage="esports-news" alt=""/>
+      <caption webpage="call-of-duty" alt=""/>
+    </file>
+    <file name="log1.png" crc="4136874733" seo="true" ref="index:gaming-hq--valorant:gaming-hq--csgo:gaming-hq--fifa-22:gaming-hq--cod:gaming-hq--games:gaming-hq--btd6:gaming-hq--news:gaming-hq---store">
+      <caption webpage="gaming-hq--news" alt=""/>
+      <caption webpage="gaming-hq--btd6" alt=""/>
+      <caption webpage="csgo" alt=""/>
+      <caption webpage="gaming-hq--cod" alt=""/>
+      <caption webpage="gaming-hq--games" alt=""/>
+      <caption webpage="gaming-hq--csgo" alt=""/>
+      <caption webpage="gaming-hq--fifa-22" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="esports-news" alt=""/>
+      <caption webpage="bloons-tower-defence-6" alt=""/>
+      <caption webpage="games" alt=""/>
+      <caption webpage="gaming-hq--valorant" alt=""/>
+      <caption webpage="gaming-hq---store" alt=""/>
+      <caption webpage="fifa-22" alt=""/>
+      <caption webpage="valorant" alt=""/>
+      <caption webpage="call-of-duty" alt=""/>
+    </file>
+    <file name="gameplay copy.png" crc="416695869" seo="true" ref="gaming-hq--valorant:gaming-hq--csgo:gaming-hq--fifa-22:gaming-hq--cod:gaming-hq--btd6">
+      <caption webpage="fifa-22" alt=""/>
+      <caption webpage="csgo" alt=""/>
+      <caption webpage="gaming-hq--csgo" alt=""/>
+      <caption webpage="gaming-hq--btd6" alt=""/>
+      <caption webpage="gaming-hq--valorant" alt=""/>
+      <caption webpage="gaming-hq--cod" alt=""/>
+      <caption webpage="valorant" alt=""/>
+      <caption webpage="bloons-tower-defence-6" alt=""/>
+      <caption webpage="call-of-duty" alt=""/>
+      <caption webpage="gaming-hq--fifa-22" alt=""/>
+    </file>
+    <file name="svg.svg" crc="3919928613" seo="true" ref="index:gaming-hq--valorant:gaming-hq--csgo:gaming-hq--fifa-22:gaming-hq--cod:gaming-hq--games:gaming-hq--btd6:gaming-hq--news:gaming-hq---store">
+      <caption webpage="gaming-hq--news" alt=""/>
+      <caption webpage="gaming-hq--btd6" alt=""/>
+      <caption webpage="csgo" alt=""/>
+      <caption webpage="gaming-hq--cod" alt=""/>
+      <caption webpage="gaming-hq--games" alt=""/>
+      <caption webpage="gaming-hq--csgo" alt=""/>
+      <caption webpage="gaming-hq--fifa-22" alt=""/>
+      <caption webpage="gaming-hq-copy" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="esports-news" alt=""/>
+      <caption webpage="bloons-tower-defence-6" alt=""/>
+      <caption webpage="games" alt=""/>
+      <caption webpage="gaming-hq--valorant" alt=""/>
+      <caption webpage="gaming-hq---store" alt=""/>
+      <caption webpage="fifa-22" alt=""/>
+      <caption webpage="valorant" alt=""/>
+      <caption webpage="call-of-duty" alt=""/>
+    </file>
+    <file name="svg_poster_.png" crc="123719839" ref="gaming-hq--valorant"/>
+    <file name="footer.jpg" crc="4141887507" seo="true" ref="index:gaming-hq--valorant:gaming-hq--csgo:gaming-hq--fifa-22:gaming-hq--cod:gaming-hq--games:gaming-hq--btd6:gaming-hq--news:gaming-hq---store">
+      <caption webpage="gaming-hq--news" alt=""/>
+      <caption webpage="gaming-hq--btd6" alt=""/>
+      <caption webpage="csgo" alt=""/>
+      <caption webpage="gaming-hq--cod" alt=""/>
+      <caption webpage="gaming-hq--games" alt=""/>
+      <caption webpage="gaming-hq--csgo" alt=""/>
+      <caption webpage="gaming-hq--fifa-22" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="esports-news" alt=""/>
+      <caption webpage="bloons-tower-defence-6" alt=""/>
+      <caption webpage="games" alt=""/>
+      <caption webpage="gaming-hq--valorant" alt=""/>
+      <caption webpage="gaming-hq---store" alt=""/>
+      <caption webpage="fifa-22" alt=""/>
+      <caption webpage="valorant" alt=""/>
+      <caption webpage="call-of-duty" alt=""/>
+    </file>
+    <file name="csgo.jpg" crc="3894264002" seo="true" ref="gaming-hq--csgo">
+      <caption webpage="csgo" alt=""/>
+      <caption webpage="gaming-hq--csgo" alt=""/>
+    </file>
+    <file name="csgo price.png" crc="3943955662" seo="true" ref="gaming-hq--csgo">
+      <caption webpage="csgo" alt=""/>
+      <caption webpage="gaming-hq--csgo" alt=""/>
+    </file>
+    <file name="csgoimage2-crop-u12982.png" crc="4138410401" seo="true" ref="gaming-hq--csgo">
+      <caption webpage="csgo" alt=""/>
+      <caption webpage="gaming-hq--csgo" alt=""/>
+    </file>
+    <file name="csgoimages-crop-u13065.png" crc="3772436215" seo="true" ref="gaming-hq--csgo">
+      <caption webpage="csgo" alt=""/>
+      <caption webpage="gaming-hq--csgo" alt=""/>
+    </file>
+    <file name="fifa page.jpg" crc="3774102798" seo="true" ref="gaming-hq--fifa-22">
+      <caption webpage="fifa-22" alt=""/>
+      <caption webpage="gaming-hq--fifa-22" alt=""/>
+    </file>
+    <file name="fifaprice.png" crc="3982080014" seo="true" ref="gaming-hq--fifa-22">
+      <caption webpage="fifa-22" alt=""/>
+      <caption webpage="gaming-hq--fifa-22" alt=""/>
+    </file>
+    <file name="fifa images-crop-u13249.png" crc="197088211" seo="true" ref="gaming-hq--fifa-22">
+      <caption webpage="fifa-22" alt=""/>
+      <caption webpage="gaming-hq--fifa-22" alt=""/>
+    </file>
+    <file name="fifaimages2-crop-u13355.png" crc="3794298854" seo="true" ref="gaming-hq--fifa-22">
+      <caption webpage="fifa-22" alt=""/>
+      <caption webpage="gaming-hq--fifa-22" alt=""/>
+    </file>
+    <file name="cod page.jpg" crc="346813090" seo="true" ref="gaming-hq--cod">
+      <caption webpage="call-of-duty" alt=""/>
+      <caption webpage="gaming-hq--cod" alt=""/>
+    </file>
+    <file name="cod price.png" crc="488901944" seo="true" ref="gaming-hq--cod">
+      <caption webpage="call-of-duty" alt=""/>
+      <caption webpage="gaming-hq--cod" alt=""/>
+    </file>
+    <file name="cod images2 copy-crop-u13414.png" crc="483191332" seo="true" ref="gaming-hq--cod">
+      <caption webpage="call-of-duty" alt=""/>
+      <caption webpage="gaming-hq--cod" alt=""/>
+    </file>
+    <file name="cod images copy-crop-u13595.png" crc="34960564" seo="true" ref="gaming-hq--cod">
+      <caption webpage="call-of-duty" alt=""/>
+      <caption webpage="gaming-hq--cod" alt=""/>
+    </file>
+    <file name="gamebg.jpg" crc="335761851" seo="true" ref="gaming-hq--games">
+      <caption webpage="gaming-hq--games" alt=""/>
+      <caption webpage="games" alt=""/>
+    </file>
+    <file name="wzblue.png" crc="274808693" seo="true" ref="gaming-hq--games">
+      <caption webpage="gaming-hq--games" alt=""/>
+      <caption webpage="games" alt=""/>
+    </file>
+    <file name="valblue.png" crc="250697416" seo="true" ref="gaming-hq--games">
+      <caption webpage="gaming-hq--games" alt=""/>
+      <caption webpage="games" alt=""/>
+    </file>
+    <file name="csblue.png" crc="4020083042" seo="true" ref="gaming-hq--games">
+      <caption webpage="gaming-hq--games" alt=""/>
+      <caption webpage="games" alt=""/>
+    </file>
+    <file name="btdblue.png" crc="8467271" seo="true" ref="gaming-hq--games">
+      <caption webpage="gaming-hq--games" alt=""/>
+      <caption webpage="games" alt=""/>
+    </file>
+    <file name="fifa1.png" crc="3788079276" seo="true" ref="gaming-hq--games">
+      <caption webpage="gaming-hq--games" alt=""/>
+      <caption webpage="games" alt=""/>
+    </file>
+    <file name="selectyourgame.png" crc="4084590885" seo="true" ref="gaming-hq--games">
+      <caption webpage="gaming-hq--games" alt=""/>
+      <caption webpage="games" alt=""/>
+    </file>
+    <file name="wz2.png" crc="60197161" seo="true" ref="gaming-hq--games">
+      <caption webpage="gaming-hq--games" alt=""/>
+      <caption webpage="games" alt=""/>
+    </file>
+    <file name="val2.png" crc="3779400264" seo="true" ref="gaming-hq--games">
+      <caption webpage="gaming-hq--games" alt=""/>
+      <caption webpage="games" alt=""/>
+    </file>
+    <file name="csgogame.png" crc="3872975927" seo="true" ref="gaming-hq--games">
+      <caption webpage="gaming-hq--games" alt=""/>
+      <caption webpage="games" alt=""/>
+    </file>
+    <file name="btd62.png" crc="123427358" seo="true" ref="gaming-hq--games">
+      <caption webpage="gaming-hq--games" alt=""/>
+      <caption webpage="games" alt=""/>
+    </file>
+    <file name="fifa2.png" crc="4247852068" seo="true" ref="gaming-hq--games">
+      <caption webpage="gaming-hq--games" alt=""/>
+      <caption webpage="games" alt=""/>
+    </file>
+    <file name="btd6page.jpg" crc="332636206" seo="true" ref="gaming-hq--btd6">
+      <caption webpage="bloons-tower-defence-6" alt=""/>
+      <caption webpage="gaming-hq--btd6" alt=""/>
+    </file>
+    <file name="btdprice.png" crc="132444654" seo="true" ref="gaming-hq--btd6">
+      <caption webpage="bloons-tower-defence-6" alt=""/>
+      <caption webpage="gaming-hq--btd6" alt=""/>
+    </file>
+    <file name="btd6img2-crop-u15740.png" crc="68676856" seo="true" ref="gaming-hq--btd6">
+      <caption webpage="bloons-tower-defence-6" alt=""/>
+      <caption webpage="gaming-hq--btd6" alt=""/>
+    </file>
+    <file name="btd6images-crop-u15811.png" crc="4083672831" seo="true" ref="gaming-hq--btd6">
+      <caption webpage="bloons-tower-defence-6" alt=""/>
+      <caption webpage="gaming-hq--btd6" alt=""/>
+    </file>
+    <file name="box1.png" crc="4123396467" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="discord.png" crc="4242882863" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="24-7.png" crc="4293368140" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.png" crc="3993823522" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="new.png" crc="4080347033" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u16195.png" crc="3987787737" ref="index"/>
+    <file name="u16195-r.png" crc="3987787737" ref="index"/>
+    <file name="u16200_states.png" crc="404801503" ref="index"/>
+    <file name="u16200_states-r.png" crc="3945373494" ref="index"/>
+    <file name="2nd page b2.png" crc="309333879" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fifa app.png" crc="112803285" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="btd.png" crc="494067129" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="valorant.png" crc="4284040444" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="csgo.png" crc="175030314" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="valorant2.png" crc="62367536" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dl2.png" crc="200502207" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="download.png" crc="3788887449" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="games2.png" crc="528048075" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="background.jpg" crc="4187446561" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="valorant games.png" crc="4254391391" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cod.png" crc="449265527" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="csgo2.png" crc="442332751" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fifa.png" crc="389036868" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newss.png" crc="3887127171" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u16300.png" crc="268733894" ref="index"/>
+    <file name="u16300-r.png" crc="3820655876" ref="index"/>
+    <file name="u16292_states.png" crc="457485175" ref="index"/>
+    <file name="u16292_states-r.png" crc="364340771" ref="index"/>
+    <file name="u16296.png" crc="4165173634" ref="index"/>
+    <file name="u16296-r.png" crc="4144924869" ref="index"/>
+    <file name="u16296-m.png" crc="4000230091" ref="index"/>
+    <file name="u16294_states.png" crc="4025517714" ref="index"/>
+    <file name="u16294_states-r.png" crc="273894836" ref="index"/>
+    <file name="u16302.png" crc="4271068134" ref="index"/>
+    <file name="u16302-r.png" crc="3998573356" ref="index"/>
+    <file name="journey.png" crc="3995763697" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="start1.png" crc="213761327" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="start2.png" crc="4173932097" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="results.png" crc="372231951" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="news.png" crc="149855071" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.jpg" crc="4157497434" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u18105_states.png" crc="3945373494" ref="gaming-hq--valorant"/>
+    <file name="u18105_states-r.png" crc="3945373494" ref="gaming-hq--valorant"/>
+    <file name="u18283_states.png" crc="3928644316" ref="gaming-hq--valorant"/>
+    <file name="u18283_states-r.png" crc="3987787737" ref="gaming-hq--valorant"/>
+    <file name="u19184_states.png" crc="3928644316" ref="gaming-hq--csgo"/>
+    <file name="u19184_states-r.png" crc="3987787737" ref="gaming-hq--csgo"/>
+    <file name="u19188_states.png" crc="3945373494" ref="gaming-hq--csgo"/>
+    <file name="u19188_states-r.png" crc="3945373494" ref="gaming-hq--csgo"/>
+    <file name="u19190.png" crc="13317911" ref="gaming-hq--csgo"/>
+    <file name="u19190-r.png" crc="422208615" ref="gaming-hq--csgo"/>
+    <file name="u19256_states.png" crc="3928644316" ref="gaming-hq--fifa-22"/>
+    <file name="u19256_states-r.png" crc="3987787737" ref="gaming-hq--fifa-22"/>
+    <file name="u19260_states.png" crc="3945373494" ref="gaming-hq--fifa-22"/>
+    <file name="u19260_states-r.png" crc="3945373494" ref="gaming-hq--fifa-22"/>
+    <file name="u19262.png" crc="13317911" ref="gaming-hq--fifa-22"/>
+    <file name="u19262-r.png" crc="422208615" ref="gaming-hq--fifa-22"/>
+    <file name="u19328_states.png" crc="3928644316" ref="gaming-hq--cod"/>
+    <file name="u19328_states-r.png" crc="3987787737" ref="gaming-hq--cod"/>
+    <file name="u19332_states.png" crc="3945373494" ref="gaming-hq--cod"/>
+    <file name="u19332_states-r.png" crc="3945373494" ref="gaming-hq--cod"/>
+    <file name="u19400_states.png" crc="3928644316" ref="gaming-hq--games"/>
+    <file name="u19400_states-r.png" crc="3987787737" ref="gaming-hq--games"/>
+    <file name="u19404-4-a.png" crc="3945373494" ref="gaming-hq--games"/>
+    <file name="u19406.png" crc="13317911" ref="gaming-hq--games"/>
+    <file name="u19406-r.png" crc="422208615" ref="gaming-hq--games"/>
+    <file name="u19112_states.png" crc="3928644316" ref="gaming-hq--btd6"/>
+    <file name="u19112_states-r.png" crc="3987787737" ref="gaming-hq--btd6"/>
+    <file name="u19116_states.png" crc="3945373494" ref="gaming-hq--btd6"/>
+    <file name="u19116_states-r.png" crc="3945373494" ref="gaming-hq--btd6"/>
+    <file name="create account2.jpg" crc="3949492087" seo="true" ref="create-account">
+      <caption webpage="sign-up" alt=""/>
+      <caption webpage="create-account" alt=""/>
+    </file>
+    <file name="png.png" crc="4291418018" seo="true" ref="create-account">
+      <caption webpage="sign-up" alt=""/>
+      <caption webpage="create-account" alt=""/>
+    </file>
+    <file name="sign in.jpg" crc="4041936099" seo="true" ref="create-account">
+      <caption webpage="sign-up" alt=""/>
+      <caption webpage="create-account" alt=""/>
+    </file>
+    <file name="sss.jpg" crc="4039776255" seo="true" ref="create-account">
+      <caption webpage="sign-up" alt=""/>
+      <caption webpage="create-account" alt=""/>
+    </file>
+    <file name="the game.png" crc="3799238044" seo="true" ref="create-account">
+      <caption webpage="sign-up" alt=""/>
+      <caption webpage="create-account" alt=""/>
+    </file>
+    <file name="be apart of.png" crc="475634487" seo="true" ref="create-account">
+      <caption webpage="sign-up" alt=""/>
+      <caption webpage="create-account" alt=""/>
+    </file>
+    <file name="u16191_states.png" crc="4229284565" ref="index"/>
+    <file name="u16191_states-r.png" crc="422208615" ref="index"/>
+    <file name="newsjpg.jpg" crc="81296878" seo="true" ref="gaming-hq--news">
+      <caption webpage="gaming-hq--news" alt=""/>
+      <caption webpage="esports-news" alt=""/>
+    </file>
+    <file name="u18101_states.png" crc="13317911" ref="gaming-hq--valorant"/>
+    <file name="u18101_states-r.png" crc="422208615" ref="gaming-hq--valorant"/>
+    <file name="u19118_states.png" crc="13317911" ref="gaming-hq--btd6"/>
+    <file name="u19118_states-r.png" crc="422208615" ref="gaming-hq--btd6"/>
+    <file name="u22590_states.png" crc="3928644316" ref="gaming-hq--news"/>
+    <file name="u22590_states-r.png" crc="3987787737" ref="gaming-hq--news"/>
+    <file name="u22600_states.png" crc="3878732605" ref="gaming-hq--news"/>
+    <file name="u22600_states-r.png" crc="3945373494" ref="gaming-hq--news"/>
+    <file name="latest.png" crc="4074479228" seo="true" ref="gaming-hq--news">
+      <caption webpage="gaming-hq--news" alt=""/>
+      <caption webpage="esports-news" alt=""/>
+    </file>
+    <file name="u22741.png" crc="4183955653" ref="gaming-hq--news"/>
+    <file name="u22741-r.png" crc="4185471107" ref="gaming-hq--news"/>
+    <file name="u22744.png" crc="431430423" ref="gaming-hq--news"/>
+    <file name="u22744-r.png" crc="36497011" ref="gaming-hq--news"/>
+    <file name="u22747.png" crc="3941474624" ref="gaming-hq--news"/>
+    <file name="u22747-r.png" crc="4065756553" ref="gaming-hq--news"/>
+    <file name="u22750.png" crc="3937070906" ref="gaming-hq--news"/>
+    <file name="u22750-r.png" crc="135337996" ref="gaming-hq--news"/>
+    <file name="u22753.png" crc="4251656725" ref="gaming-hq--news"/>
+    <file name="u22753-r.png" crc="72045455" ref="gaming-hq--news"/>
+    <file name="u16197_states.png" crc="403653387" ref="index"/>
+    <file name="u16197_states-r.png" crc="4073491992" ref="index"/>
+    <file name="backgroundstore.jpg" crc="285843284" seo="true" ref="gaming-hq---store">
+      <caption webpage="gaming-hq---store" alt=""/>
+    </file>
+    <file name="u22919_states.png" crc="3928644316" ref="gaming-hq---store"/>
+    <file name="u22919_states-r.png" crc="3987787737" ref="gaming-hq---store"/>
+    <file name="u22926_states.png" crc="3878732605" ref="gaming-hq---store"/>
+    <file name="u22926_states-r.png" crc="3945373494" ref="gaming-hq---store"/>
+    <file name="purchase.png" crc="56522900" seo="true" ref="gaming-hq---store">
+      <caption webpage="gaming-hq---store" alt=""/>
+    </file>
+    <file name="giftblue.png" crc="4017871428" seo="true" ref="gaming-hq---store">
+      <caption webpage="gaming-hq---store" alt=""/>
+    </file>
+    <file name="gift card.png" crc="349425637" seo="true" ref="gaming-hq---store">
+      <caption webpage="gaming-hq---store" alt=""/>
+    </file>
+    <file name="giftred.png" crc="3869193015" seo="true" ref="gaming-hq---store">
+      <caption webpage="gaming-hq---store" alt=""/>
+    </file>
+    <file name="u18099_states.png" crc="168246690" ref="gaming-hq--valorant"/>
+    <file name="u18099_states-r.png" crc="4073491992" ref="gaming-hq--valorant"/>
+    <file name="u19195_states.png" crc="168246690" ref="gaming-hq--csgo"/>
+    <file name="u19195_states-r.png" crc="4073491992" ref="gaming-hq--csgo"/>
+    <file name="u19267_states.png" crc="168246690" ref="gaming-hq--fifa-22"/>
+    <file name="u19267_states-r.png" crc="4073491992" ref="gaming-hq--fifa-22"/>
+    <file name="u19411_states.png" crc="168246690" ref="gaming-hq--games"/>
+    <file name="u19411_states-r.png" crc="4073491992" ref="gaming-hq--games"/>
+    <file name="u19123_states.png" crc="168246690" ref="gaming-hq--btd6"/>
+    <file name="u19123_states-r.png" crc="4073491992" ref="gaming-hq--btd6"/>
+    <file name="u22597-4-a.png" crc="422208615" ref="gaming-hq--news"/>
+    <file name="u22593_states.png" crc="168246690" ref="gaming-hq--news"/>
+    <file name="u22593_states-r.png" crc="4073491992" ref="gaming-hq--news"/>
+    <file name="u22929-4-a.png" crc="4073491992" ref="gaming-hq---store"/>
+    <file name="u19334_states.png" crc="13317911" ref="gaming-hq--cod"/>
+    <file name="u19334_states-r.png" crc="422208615" ref="gaming-hq--cod"/>
+    <file name="u19339_states.png" crc="168246690" ref="gaming-hq--cod"/>
+    <file name="u19339_states-r.png" crc="4073491992" ref="gaming-hq--cod"/>
+    <file name="u22922_states.png" crc="4054339433" ref="gaming-hq---store"/>
+    <file name="u22922_states-r.png" crc="422208615" ref="gaming-hq---store"/>
+    <file name="gc.png" crc="121179056" seo="true" ref="gaming-hq---store">
+      <caption webpage="gaming-hq---store" alt=""/>
+    </file>
+    <file name="gcc.png" crc="4271543683" seo="true" ref="gaming-hq---store">
+      <caption webpage="gaming-hq---store" alt=""/>
+    </file>
+    <file name="buy22.png" crc="3813214403" seo="true" ref="gaming-hq---store">
+      <caption webpage="gaming-hq---store" alt=""/>
+    </file>
+    <file name="buy3.png" crc="189209688" seo="true" ref="gaming-hq---store">
+      <caption webpage="gaming-hq---store" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="197962645" seo="true" mt="1660149002140" redirect="true"/>
+  <file name="create-account.html" crc="414761481" seo="true" mt="1660148970375" redirect="true"/>
+  <file name="gaming-hq--valorant.html" crc="221231613" seo="true" mt="1660149013309" redirect="true"/>
+  <file name="gaming-hq--csgo.html" crc="3845334924" seo="true" mt="1660149049205" redirect="true"/>
+  <file name="gaming-hq--fifa-22.html" crc="530945838" seo="true" mt="1660149061274" redirect="true"/>
+  <file name="gaming-hq--cod.html" crc="111375201" seo="true" mt="1660149070735" redirect="true"/>
+  <file name="gaming-hq--games.html" crc="143449081" seo="true" mt="1660148970369" redirect="true"/>
+  <file name="gaming-hq--btd6.html" crc="3923942253" seo="true" mt="1660149033048" redirect="true"/>
+  <file name="gaming-hq--news.html" crc="4111284618" seo="true" mt="1660148970376" redirect="true"/>
+  <file name="gaming-hq---store.html" crc="4210938573" seo="true" mt="1660148970378" redirect="true"/>
+</manifest>
